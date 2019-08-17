@@ -1,0 +1,5 @@
+package com.microservicios2.clase4.restapi.service;
+
+public class StudentServiceV1Impl {
+
+}
